@@ -117,13 +117,17 @@ header{
     margin-bottom: 110px;
     margin-top: 140px;
 }
-address{
+.address-one, .address-two{
     margin-top: 34px;
     font-size: 25px;
     display: inline-block;
     margin-left: 450px;
     color:#0B253E;
 }
+address{
+    margin:20px 0;
+}
+
 .map{
     border-radius: 16px;
     margin-bottom: 193px;
