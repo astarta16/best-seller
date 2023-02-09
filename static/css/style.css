@@ -1,0 +1,317 @@
+/* header code */
+header{
+    border-bottom: 1px solid black;
+    padding: 30px 0;
+}
+.header-container{
+    max-width: 1188px;
+    width:90%;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+/* home page code */
+.home-nav-li.logo{
+    margin-right:250px;
+    font-family: "Malayalam-400", sans-serif;
+    font-size: 26px;
+    line-height: 37px;
+    color:#000000;
+}
+.home-nav-li{
+    display: inline-block;
+}
+.home-nav-li.middle{
+    margin: 0 25px;
+    font-family: "poppins-500", sans-serif;
+    font-size: 18px;
+    line-height:27px;
+}
+.home-nav-li.icon{
+    margin-left: 340px;
+}
+.home-page{
+    text-align: center;
+    margin-top: 72px;
+}
+.home-page-title{
+    margin-bottom: 55px;
+    font-size: 24px;
+    line-height: 29px;
+}
+.main-wrapper{
+    max-width:333px;
+    display:inline-block;
+}
+.main-wrapper.middle{
+    margin: 0 104px;
+}
+.top-wrapper{
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 10px 15px 21px 15px;
+}
+.top-wrapper img{
+    width:100%;
+}
+.content{
+    text-align: left;
+    margin-left:20px;
+}
+.content h3{
+    margin: 15px 0 18px 0;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins';
+    font-weight: 700;
+
+}
+.content p{
+    font-size: 14px;
+    line-height: 21px;
+    margin-right: 10px;
+    font-family:"firago-350", sans-serif;
+    
+}
+.bottom-wrapper{
+    text-align: right;
+    margin:23px 0 62px 0;
+}
+.bottom-wrapper button{
+    width:118px;
+    height:30px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+.home-footer{
+    text-align: left;
+    margin-left:30px;
+}
+.home-footer-ul{
+    list-style-type:disc;
+}
+.home-footer-ul li{
+    font-size:14px;
+    line-height: 30px;
+    font-family:"openSans-400", sans-serif;
+}
+.see-more-product{
+    margin-left: 1100px;
+    margin-top: 20px;
+    font-size:16px;
+    line-height:21px;
+    text-decoration-line: underline;
+    font-family: 'FiraGO';
+    font-weight: 400;
+}
+
+/* contact page code */
+
+.contact_us{
+    text-align: center;
+    color:#7D0000;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 110px;
+    margin-top: 140px;
+}
+address{
+    margin-top: 34px;
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 450px;
+    color:#0B253E;
+}
+.map{
+    border-radius: 16px;
+    margin-bottom: 193px;
+    width: 908px;
+    height: 423px;
+    margin-top: 134px;
+    margin-left: 450px;
+}
+
+/* about us code */
+.about-us{
+    font-weight: 600;
+    font-size: 40px;
+    color:#7D0000;
+    margin-left: 660px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.about-p{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 165%;
+    width: 650px;
+    height: 205px;
+    margin-left: 100px;
+}
+
+.about-address{
+    font-size: 25px;
+    text-decoration: underline;
+    font-style: italic;
+}
+.about-img{
+    border-radius: 20px;
+    width: 500px;
+    height: 333px;
+    margin-left: 800px;
+    margin-top: -250px;
+
+}
+
+/* blog code */
+.blog-title{
+    display:inline-block;
+    margin: 47px 0 93px 94px;
+    font-size: 24px;
+    line-height: 28px;
+    font-family:"firago-500", sans-serif;
+}
+.wrapper{
+    text-align: center;
+    margin-bottom: 68px;
+}
+.wrapper-li{
+    display:inline-block;
+    margin: 0 32.5px;
+    font-family:"firago-500", sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+}
+.post{
+    margin-left: 94px;
+}
+.post-image{
+    display:inline-block;
+}
+.post-image img{
+    border-radius:14px 0 0 14px;
+}
+.blog-post-button{
+    width:918px;
+    display: inline-block;
+    vertical-align: top;
+}
+.post-article{
+    display: inline-block;
+    margin-left: 22px;
+    background: #E5EBE5;
+    border-radius: 0 15px 15px 0;
+    height: 228px;
+}
+.post-article article{
+    margin-left: 36px;
+}
+.post-article h3{
+    margin: 38px 0 32px 0;
+    font-size: 18px;
+    line-height: 22px;
+    font-family:"firago-500", sans-serif;
+}
+.post-article p{
+    margin-bottom: auto;
+    font-size: 14px;
+    line-height: 17px;
+     font-family:"firago-500", sans-serif; 
+}
+.post-button{
+    margin: 14px 0 63px 0;
+    text-align: right;
+}
+.post-button button{
+    width: 174px;
+    height: 40px;
+    border-radius:4px;
+    font-size: 12px;
+    line-height: 14px;
+    font-family:"firago-500", sans-serif;
+    text-decoration-line: underline;
+}
+
+/* user profile code */
+.user-section{
+    margin-left: 210px;;
+}
+.user{
+    margin:169px 0 100px 0px;
+}
+.user-content{
+    display:inline-block;
+     vertical-align: middle; 
+}
+.user-content.img{
+    margin-right:70px;
+}
+.user-content .name{
+    font-size: 30px;
+    line-height: 45px;
+    font-family:"poppins-500", sans-serif;
+}
+.profession{
+    margin-top: 14px;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.03em;
+    color: #546CCC;
+    font-style: italic;
+    font-family:"poppins-400", sans-serif;
+}
+.user-description{
+    margin: 0 0 150px 15px;
+}
+.user-title{
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    width:135px;
+    font-family:"poppins-500", sans-serif;
+    border-bottom: 1px solid #7D0000;
+    border-color: #7D0000;
+    padding: 15px 30px;
+}
+.user-list{
+    margin: 60px 0 25px 0;
+    width:1100px;
+    margin-left:15px;
+}
+.user-ul{
+    display: inline-block;
+}
+.user-ul.first{
+    margin-right: 144px;
+}
+.user-ul.first li{
+    font-size: 20px; 
+    line-height: 30px;
+    font-family:"poppins-700", sans-serif;
+}
+.user-ul.last li{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    font-family:"poppins-500", sans-serif;
+}
+.user-li.middle{
+    margin: 30px 0;
+}
+ .button{
+    margin-left: 800px;
+    margin-top: 30px;
+} 
+.button button{
+    width: 265px;
+    height: 70px;
+    background: #87AC87;
+    border-radius: 10px;
+    padding: 16px 32px;
+    font-size: 25px;
+    line-height: 38px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
